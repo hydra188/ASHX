@@ -1,0 +1,9 @@
+# Ignorer l'environnement virtuel
+llama_env/
+
+# Ignorer les fichiers Python compilés
+*.pyc
+__pycache__/
+
+# Ignorer les fichiers de configuration IDE
+.vscode/
